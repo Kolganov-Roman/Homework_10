@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendriks",
+    "pictures": "https://picsum.photos/id/237/200/300",
+    "position": "Go developer",
+    "gender": "female",
+    "age": 40,
+    "skills": "Go, Python"
+  },
+  {
+    "id": 2,
+    "name": "Sherri Torres",
+    "pictures": "https://picsum.photos/id/237/200/300",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 37,
+    "skills": "Css, Js, Python"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "pictures": "https://picsum.photos/id/237/200/300",
+    "position": "Teame Leade",
+    "gender": "male",
+    "age": 39,
+    "skills": "Java, python, Django"
+  }
+]
